@@ -20,7 +20,7 @@
 
 ### 模式结构
 
-![img_3.png](img_3.png)
+![img_3.png](img/img_3.png)
 
 ### 模式分析
 
